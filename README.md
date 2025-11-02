@@ -204,7 +204,7 @@ The app sends hardware control commands over the same serial port:
 ## 9 — License & credits
 
 * This project is provided as-is for experimentation and prototyping. Use, modify, and redistribute under the MIT License (include a copy if you redistribute).
-* Credits: original visual design and iterative fixes by the project author (you), with enhancements for interpolation, onion-skin, and UI polish.
+* Credits: original visual design and iterative fixes by the project author (Nitin swarnakr), with enhancements for interpolation, onion-skin, and UI polish.
 
 ---
 
