@@ -244,3 +244,17 @@ If you want, I can:
 * Add a clickable UI (sliders & buttons) for arm lerp, interpolation and STEP_DELAY_MS.
 * Write a complete Arduino sketch that implements sweeping, HC-SR04 distance measurement and `SPD` command handling.
 * Add an export option that saves onion snapshots as PNG files or a CSV log.
+
+
+# DEMO :
+
+<img width="1200" height="821" alt="radar-5518" src="https://github.com/user-attachments/assets/d33ee030-1cdd-4f4b-8caf-8a4c08f088b2" />
+<img width="1200" height="821" alt="radar-4443" src="https://github.com/user-attachments/assets/ddafcb06-a451-411b-a7eb-168d1bb26037" />
+<img width="1200" height="821" alt="radar-4089" src="https://github.com/user-attachments/assets/79ea41fa-0172-46c0-a286-e605bd31eb7e" />
+<img width="1200" height="821" alt="radar-3897" src="https://github.com/user-attachments/assets/235c6309-98bf-43b8-80d6-02637a738129" />
+
+
+
+https://github.com/user-attachments/assets/a7800f58-8e14-490c-ab72-be04960fd8bf
+
+
