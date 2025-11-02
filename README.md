@@ -244,5 +244,3 @@ If you want, I can:
 * Add a clickable UI (sliders & buttons) for arm lerp, interpolation and STEP_DELAY_MS.
 * Write a complete Arduino sketch that implements sweeping, HC-SR04 distance measurement and `SPD` command handling.
 * Add an export option that saves onion snapshots as PNG files or a CSV log.
-
-Which do you want next?
